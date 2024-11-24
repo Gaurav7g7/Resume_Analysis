@@ -1,0 +1,26 @@
+Dr. Junhua Ding is a Professor of Data Science in the Department of Information Science, University of North Texas (UNT). He is the Director of Data Science Programs (undergraduate and graduate) at UNT. He was a faculty member with the Department of Computer Science at East Carolina University (ECU) before he joined UNT in 2018. His research interests include Data Analytics, Computational Law, Biomedical Computation, Information Security and Privacy, and Software Engineering. 
+
+ 
+Teaching (Spring 2019)
+INFO 4907/5709: Data Visualization (Thursday: 6:30pm - 9:20pm)
+INFO 5082: Seminars of Research Methods (Wednesday: 2:30pm - 5:20pm)
+Research
+My primary research focus is on Intelligent Systems and Big Data Analytics, particularly as applied to development of Computational Law and Biomedical Computation. Current research projects and interests include:
+
+Data Analytics, Management and Quality Assurance of Big Data
+Intelligent Bioinformatics
+Computational Law
+Information Security and Privacy
+Computer Science, Data Science, and Software Engineering Education
+Education
+Ph.D. in Computer Science, Florida International University, 2004
+M.Eng. in Computer Science, Nanjing University, 1997
+B.Eng. in Computer Science, China University of Geosciences (Wuhan), 1994
+Major in Geochemistry (Minor in Marketing), Nanjing School of Geology, 1986 - 1990
+Work Experience
+Professor, University of North Texas, Denton, TX, August 2018 -
+Assistant/Associate Professor, East Carolina University, Greenville, NC, August 2007- August 2018. 
+Senior Engineer, Johnson & Johnson, Rochester, NY, Jan. 2006- August 2007. 
+Project management, system development and product support of immunohematology systems.
+Software Engineer, Beckman Coulter Inc., Miami, FL, May 2000- Jan. 2006. 
+Software and algorithm development for flow cytometry, image-based cytometry and hematology systems.

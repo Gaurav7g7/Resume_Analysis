@@ -1,4 +1,6 @@
-pandas
 nltk
-spacy
+numpy
+PyPDF2
+python-docx
+rake_nltk
 -e .
